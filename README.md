@@ -4,6 +4,10 @@ This repository contains MATLAB code for detecting and analyzing circular featur
 
 Its a simple code, that employs MATLAB's built in functions in the Image Processing Toolbox, to get the stochastic properties of composites. In my case, an SEM image of CFRP cross-section is used, and I will use it as a showcase for the code running framework.
 
+
+![Framework Overview](Framework.png)
+
+
 ---
 
 ## Features  
