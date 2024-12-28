@@ -3,9 +3,7 @@
 This repository contains MATLAB code for detecting and analyzing circular features (e.g., fibers) in composite images. The script demonstrates how to preprocess images, identify round objects, and calculate relevant metrics such as the Fiber Volume Fraction (FVF). This code was used in the paper titled:'Thin, Uniform, and Highly Packed Multifunctional Structural Carbon Fiber Composite Battery Lamina Informed by Solid Polymer Electrolyte Cure Kinetics'
 
 Its a simple code, that employs MATLAB's built in functions in the Image Processing Toolbox, to get the stochastic properties of composites. In my case, an SEM image of CFRP cross-section is used, and I will use it as a showcase for the code running framework.
-
-
-                    ![Framework Overview](Framework.PNG)
+  
 
   <div align="center">
   <img src="Framework.PNG" alt="Framework Overview" />
