@@ -1,0 +1,24 @@
+Please cite this code as:
+
+GitHub Repository: CompImgProc
+Title:Code for composite SEM image processing, underlying the publication: Thin, Uniform, and Highly Packed Multifunctional Structural Carbon Fiber Composite Battery Lamina Informed by Solid Polymer Electrolyte Cure Kinetics 
+DOI: 10.4121/72c0a42d-b35f-45ed-bd80-7a6fcdce9c16
+Authors:
+Mohamad A. Raja (ORCiD: https://orcid.org/0009-0007-4646-9751)
+Seong Su Kim  (ORCiD: https://orcid.org/0000-0001-8722-0505)
+Repository: https://github.com/MohamadA-RJ/CompImgProc
+_______________________________________________
+
+Paper related to the code:
+
+@article{doi:10.1021/acsami.4c08698,
+author = {Raja, Mohamad A. and Lim, Su Hyun and Jeon, Doyun and Bae, Sangyoon and Oh, Woong and Yang, Inyeong and Kang, Dajeong and Ha, Jawon and Lee, Ha Eun and Oh, Il-Kwon and Kim, Sanha and Kim, Seong Su},
+title = {Thin, Uniform, and Highly Packed Multifunctional Structural Carbon Fiber Composite Battery Lamina Informed by Solid Polymer Electrolyte Cure Kinetics},
+journal = {ACS Applied Materials \& Interfaces},
+volume = {16},
+number = {43},
+pages = {59128-59142},
+year = {2024},
+doi = {10.1021/acsami.4c08698},note ={PMID: 39255971},
+URL = {https://doi.org/10.1021/acsami.4c08698},
+eprint = {https://doi.org/10.1021/acsami.4c08698
